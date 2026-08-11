@@ -1,4 +1,4 @@
-Software engineering student at the University of Waterloo, currently interning [@Shopify](https://github.com/Shopify) on the Payments team.
+Software engineering student at the University of Waterloo, currently interning @ Shopify on the Payments team.
 
 Some things I've built:
 
