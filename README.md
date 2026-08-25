@@ -1,4 +1,4 @@
-Hey, I'm Aayan! I'm a software engineering student at the University of Waterloo, previously @Shopify on the Payments team.
+Hey, I'm Aayan! I'm a software engineering student at the University of Waterloo, previously at Shopify on the Payments team.
 
 Some things I've worked on:
 
