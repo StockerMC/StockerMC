@@ -11,4 +11,4 @@ I've won 10 hackathons and 2 international IEEE contests. Some things I've worke
 - [Maatchaa](https://maatchaa.co) ([repo](https://github.com/StockerMC/Maatchaa)): matches Shopify merchants with YouTube creators for product partnerships
   - Finalist (top 12/250) @ Hack the North 2025
 
-Lately I've been looking into ML systems. Reach me on [LinkedIn](https://linkedin.com/in/aayan-karmali).
+Lately I've been looking into ML systems. Reach me on [LinkedIn](https://linkedin.com/in/aayan-karmali)!
