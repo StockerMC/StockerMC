@@ -1,16 +1,13 @@
-Hey, I'm Aayan! I'm a software engineering student at the University of Waterloo, previously at Shopify on the Payments team.
+Hey, I'm Aayan! I'm a Software Engineering student at the University of Waterloo, previously at Shopify on the Payments team.
 
 I've won 10 hackathons and 2 international IEEE contests. Some things I've worked on:
 
 - **Orbis Engine:** turns an ordinary video into a 4D scene you can walk around in a browser or in VR
   - Finalist (top 12/350) @ Hack the North 2026, 2nd in the OpenAI track
-
 - **discord.py:** contributed features, fixes, and the library-wide typing overhaul
   - Maintained a fork while development was paused
-
 - **Halo:** wearable assistant that helps people with vision loss navigate their surroundings
   - 1st place @ IEEE SSCS Arduino Contest 2025
-
 - **Maatchaa:** matches Shopify merchants with YouTube creators for product partnerships
   - Finalist (top 12/250) @ Hack the North 2025
 
